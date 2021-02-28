@@ -3,6 +3,7 @@ cmake-build-debug
 CMakeLists.txt
 .idea
 go.mod
+.DS_Store
 
 *.exe
 *.ilk
